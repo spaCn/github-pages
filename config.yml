@@ -13,8 +13,10 @@ preferences:
   - type: dropdown
     name: language
     label: Language
-    description: Choose your preferred language.
+    description: 选择你喜欢的语言
     options:
+      - label: 中文
+        value: zh
       - label: English
         value: en
       - label: Español
@@ -27,6 +29,9 @@ steps:
   - title: Generate a GitHub Pages site
     description: Generate a GitHub Pages site with the automatic page generator.
     translations:
+      zh:
+        title: 生成 GitHub Pages 网站
+        description: 使用生成器(づ￣3￣)づ╭❤～biu的生成GitHub Pages网站。
       es:
         title: Activa GitHub Pages
         description: >-
@@ -49,6 +54,9 @@ steps:
   - title: Customize your homepage
     description: Open a pull request with changes to the homepage.
     translations:
+      zh:
+        title: 自定义您的首页
+        description: 合并pull request带来的首页更改
       es:
         title: Personaliza tu página inicial
         description: Abre un pull request con cambios en la página inicial.
@@ -74,6 +82,9 @@ steps:
   - title: Merge your pull request
     description: Merge the pull request that customizes your homepage.
     translations:
+      zh:
+        title: 合并您的pull request
+        description: 合并pull request带来的首页更改 
       es:
         title: Combina tu pull request
         description: Combina el pull request que personaliza tu página inicial.
@@ -105,6 +116,9 @@ steps:
   - title: Customize site details
     description: Edit the configuration file to display your information.
     translations:
+      zh:
+        title: 定义站点详细信息
+        description: 通过配置文件来改变您网站展示信息
       es:
         title: Personaliza los detalles del sitio
         description: Edita el archivo de configuración para mostrar tu información.
@@ -153,6 +167,9 @@ steps:
   - title: Create a blog post
     description: Create a new file that will become your first blog post.
     translations:
+      zh:
+        title: 创作日志
+        description: 通过创建新文件来创作第一篇日志吧 ^_^
       es:
         title: Crea un post
         description: Crea un nuevo archivo que se convertirá en el primer post de tu blog.
@@ -217,6 +234,9 @@ steps:
   - title: Add blog post metadata
     description: Add YAML front matter to the blog post to display the title and date.
     translations:
+      zh:
+        title: 添加日志的描述属性
+        description: 通过 YAML 叙述日志的展示标题和其他属性ヽ(^_−)ﾉ
       es:
         title: Añade metadatos al post
         description: Añade texto preliminar YAML al post para mostrar el título y la fecha.
@@ -275,6 +295,9 @@ steps:
       Merge the pull request so your blog post will appear on your GitHub Pages
       site.
     translations:
+      zh:
+        title: 发布第一篇日志
+        description: 合并pull request后您的一篇日志将会被发布到GitHub Pages上
       es:
         title: Combina tu primer post
         description: >-

@@ -1,38 +1,45 @@
-Did you know you can host your personal, organization, and project sites on GitHub? With GitHub Pages, you can quickly create a site from your GitHub repositories—a great way to share static content related to your repository like resumes, portfolios, and project blogs. 
+先来想象一下你的简历、投资组合、项目博客托管在GitHub Pages上吧，一zi，啊，白嫖，啊，香。起来嗨٩(๑❛ᴗ❛๑)۶。
 
-If you're new to GitHub Pages, or you want to learn how to build and host a GitHub Pages site, you're in the right place. With GitHub Pages, you can host content like documentation, resumes, or any other static content that you’d like.
+如果你想使用GitHub Pages托管你的站点，注意重点来啦，所有~~姿势~~静态内容都可以。
 
-## What you'll learn
+## 知识点
 
-In this course, you’ll learn how to:
+量大管饱：
 
-- Enable GitHub Pages
-- Choose a theme with Jekyll
-- Use YAML front matter
-- Customize your site
-- Create and edit blog posts
+- 开通 GitHub Pages
+- 选择一个你中意的 Jekyll 主题模板
+- 使用 YAML 配置页面 [YAML front matter](https://jekyllrb.com/docs/front-matter/)
+- 对自己的站点进行更多个性化
+- 创建和编辑文章
 
-You'll know the answers to questions like:
+也许你可以学会怎么给朋友科普:
 
-- What is GitHub pages?
-- How do I make sites with GitHub Pages?
-- How do I create my own blog?
+- 什么是GitHub pages
+- 如何使用 GitHub Pages 创建网站
+- 我是怎么写博客的
 
-## What you'll build
+## 你和小明都拥有光明的未来
 
-In this course, you'll build a simple personal blog site with GitHub Pages. You'll be able to add posts and share your blog with anyone.
+接下来你可以将你的博客文章分享给你的好朋友小明了。
 
 ![Screenshot_2020-02-25 Welcome to my blog](https://user-images.githubusercontent.com/1221423/75267083-224fd180-57a8-11ea-8acf-64c1ee6d950f.png)
 
-## Prerequisites
+## 但是
 
-For this course, you'll need to know how to create a branch on GitHub, commit changes using Git, and open a pull request on GitHub. If you need a refresher on the GitHub flow, check out the [Introduction to GitHub course](https://lab.github.com/githubtraining/introduction-to-github). We'll assume you know what [blogs](https://en.wikipedia.org/wiki/Blog) are and how they work.
+For this course, you'll need to know how to create a branch on GitHub, commit changes using Git, and open a pull request on GitHub. If you need a refresher on the GitHub flow, check out the . We'll assume you know what are and how they work.
+学习本课程之前你要掌握：
 
-## Projects used
+- 如何在 GitHub 上创建分支(branch)
+- 如何使用 Git 提交更改
+- 如何使用 pull request
 
-- [Jekyll](https://jekyllrb.com), a static site generator
-- [Jekyll minima theme](https://github.com/jekyll/minima), a one-size-fits-all Jekyll theme for writers
+所以也许你需要去复习一下[Introduction to GitHub course](https://lab.github.com/githubtraining/introduction-to-github)。或者复习一下[博客](https://zh.wikipedia.org/wiki/Blog)的历史？
 
-## Audience
+## 这些离不开
 
-This is a great beginner course. If you're wanting to run your own blog, personal site, project site, or portfolio, this is the best course for you. This is a wonderful course for students, project maintainers, and small businesses.
+- [Jekyll](https://jekyllrb.com), 棒棒的静态网站生成器~ 混蛋，为什么不用 [Gatsby](https://www.gatsbyjs.com/)...
+- [Jekyll minima theme](https://github.com/jekyll/minima), 适合所有人的Jekyll主题
+
+## 最后
+
+不听，不听，这个课程最棒的。(╬￣皿￣)=○你要是学不会怎么白嫖GitHub来写博客、个人网站、项目网站或者简历！看见前面沙包大的拳头了没？
