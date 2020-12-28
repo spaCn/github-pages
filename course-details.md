@@ -26,7 +26,6 @@
 
 ## 但是
 
-For this course, you'll need to know how to create a branch on GitHub, commit changes using Git, and open a pull request on GitHub. If you need a refresher on the GitHub flow, check out the . We'll assume you know what are and how they work.
 学习本课程之前你要掌握：
 
 - 如何在 GitHub 上创建分支(branch)
