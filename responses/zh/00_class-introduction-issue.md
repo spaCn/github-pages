@@ -2,20 +2,27 @@
 
 欢迎您来到 GitHub Pages 和 Jekyll 的世界 :tada:!
 
-If you're new to GitHub Pages, or you want to learn how to build and host a [GitHub Pages](https://pages.github.com) site, you're in the right place. With GitHub Pages, you can host content like [documentation](https://flight-manual.atom.io/), [resumes](https://github.com/jglovier/resume-template), or any other static content that you’d like.
+首先恭喜您选择了[GitHub Pages](https://pages.github.com)的正确打开方式。使用[GitHub Pages](https://pages.github.com)，您可以参考这些案例比如[文档](https://flight-manual.atom.io/)、[简历](https://github.com/jglovier/resume-template)，也可以是其他任何您喜欢的静态内容。
 
-In this course, you'll create a blog hosted on GitHub Pages and learn how to:
+接下来，您将使用GitHub Pages创作一个博客并学到：
 
-- Enable GitHub Pages
-- Use [Jekyll](https://jekyllrb.com/), a static site generator
-- Customize Jekyll sites with a theme and content
+- 如何开通 GitHub Pages
+- [Jekyll静态网站生成器](https://jekyllrb.com/)
+- 使用个性化主题自定义Jekyll
 
-### New to GitHub?
+### 初来乍到?
 
-For this course, you'll need to know how to create a branch on GitHub, commit changes using Git, and open a pull request on GitHub. If you need a refresher on the GitHub flow, check out the [Introduction to GitHub course]({{ host }}/courses/introduction-to-github).
+本课程假设您已经了解：
 
-### :keyboard: Activity: Generate a GitHub Pages site
+- 在GitHub仓库中创建分支
+- 使用Git提交更改
+- 打开pull request
 
+如果你需要[复习这些GitHub功能流程，可以看这里]({{ host }}/courses/introduction-to-github)。
+
+### :keyboard: Activity: 生成 GitHub Pages 站点
+
+第一步
 The first step to publishing your blog to the web is to enable GitHub Pages on this repository <sup>[:book:](https://help.github.com/articles/github-glossary/#repository)</sup>. When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
 
 1. Under your repository name, click [**Settings**]({{ repoUrl }}/settings).
