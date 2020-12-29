@@ -1,12 +1,12 @@
 <p align="center"><a href="https://lab.github.com/"><img alt="Learning Lab bot" src="https://user-images.githubusercontent.com/16547949/62085817-83232580-b22a-11e9-8693-7c54205b04e5.png"></a></p>
 
-<h1 align="center">Course: GitHub Pages </h1>
+<h1 align="center">Course: GitHub Pages 中文版</h1>
 
-This repository powers the Learning Lab course [_GitHub Pages_](https://lab.github.com/githubtraining/github-pages). 
+This repository powers the Learning Lab course [_GitHub Pages_](https://lab.github.com/spacn/github-pages). 
 
 Every Learning Lab course is made up of:
-- a [course repository](https://github.com/githubtraining/github-pages), and
-- a [template repository](https://github.com/githubtraining/github-pages-with-jekyll-template)
+- a [course repository](https://github.com/spacn/github-pages), and
+- a [template repository](https://github.com/spacn/github-pages-with-jekyll-template)
 
 The course repository is written in YAML and Markdown. The template repository could be written in any language that supports the learning objectives.
 
